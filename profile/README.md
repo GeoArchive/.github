@@ -22,12 +22,12 @@ Some things simply aren't there. When the sollution we create is seen as somethi
 # Who is GeoArchive for?
 GeoArchive has been developed as "generally as possible". With the aim of being suitable for all kinds of collections.
 
-This can be anything, for example:
-**image banks**
-For the collection of company photos, promotional material, the collection of holiday photos or city and village archives. Even your museum's media library can find a home at GeoArchive 
-**genealogy**
-from colleagues in the office, the membership of the association, the family tree of your family to all residents ever in your village or city
-**heritage**
+This can be anything, for example:\
+**image banks**\
+For the collection of company photos, promotional material, the collection of holiday photos or city and village archives. Even your museum's media library can find a home at GeoArchive\
+**genealogy**\
+from colleagues in the office, the membership of the association, the family tree of your family to all residents ever in your village or city\
+**heritage**\
 is the collective term of the above, for which GeoArchive is extremely suitable!
 
 The aim is to make it as easy as possible to link one person in your GeoArchive to another in another GeoArchive. This also applies to images, for example. This allows collaboration and the collection to grow and improve! Another advantage is that one collection can be linked to another.
